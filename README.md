@@ -9,7 +9,7 @@
 </p>
 <h2></h2>
 With 7 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in Computer Science from University, I have served as developer, engineer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszhu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
  <div style="text-align: center;"><h1>My Skills</h1></div>
   <ul>
     <li>Front-End: React.js, Angular, Vue.js, Svelte</li>
